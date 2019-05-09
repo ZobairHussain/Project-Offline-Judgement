@@ -1,5 +1,5 @@
-Project Description: (how it works)
-01.There is a java code that takes the judge input & judge output form the
+#Project Description: (how it works)
+#01.There is a java code that takes the judge input & judge output form the
 user.
 02. After that it convert the C or C++ or java code into a txt file.
 03.There is another C++ code called output generator that edited that txt file
